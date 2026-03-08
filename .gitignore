@@ -1,0 +1,21 @@
+# Maven
+portal-backend/target/
+portal-backend/*.log
+
+# Node
+portal-frontend/node_modules/
+portal-frontend/dist/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# 环境
+.env
+*.env.local
+data/
+
+# 日志
+*.log
+logs/
